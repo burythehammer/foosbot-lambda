@@ -1,0 +1,7 @@
+
+.idea/
+*.iml
+terraform.tfstate
+terraform.tfstate.backup
+node_modules
+target/function.zip
